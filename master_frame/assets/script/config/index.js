@@ -1,0 +1,2 @@
+window.miCfg = {}
+window.miTools = {}

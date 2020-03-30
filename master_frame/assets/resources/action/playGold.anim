@@ -1,0 +1,34 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playGold",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bf3260c6-00b0-4ff3-9d39-d1fee32e3ae3"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "763909c8-4a06-4fd1-af63-d58cd0dea962"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": []
+    }
+  },
+  "events": []
+}

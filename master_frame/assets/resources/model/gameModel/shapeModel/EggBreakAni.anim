@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EggBreakAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.9333333333333333,
+  "sample": 60,
+  "speed": 1.5,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "jinbi_1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "01a343b1-7a2c-43de-867a-296955621624"
+                }
+              },
+              {
+                "frame": 0.11666666666666667,
+                "value": {
+                  "__uuid__": "11814687-9943-41d9-bc6a-ebf4f55592d2"
+                }
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": {
+                  "__uuid__": "fe72a479-94c0-45da-9259-39964e3ed735"
+                }
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": {
+                  "__uuid__": "82329ec3-5555-4421-98df-8e4fc7e40b44"
+                }
+              },
+              {
+                "frame": 0.48333333333333334,
+                "value": {
+                  "__uuid__": "ac323b15-ff4c-4f0b-b4dc-53fcf3960ceb"
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__uuid__": "4cafcbbf-d170-4819-8782-17b0e2c8f904"
+                }
+              },
+              {
+                "frame": 0.7166666666666667,
+                "value": {
+                  "__uuid__": "1b999053-8d4f-40a4-a096-7a91d26781ef"
+                }
+              },
+              {
+                "frame": 0.8166666666666667,
+                "value": {
+                  "__uuid__": "07ce7ac5-2d34-4a6d-ac74-969402795352"
+                }
+              },
+              {
+                "frame": 0.9166666666666666,
+                "value": {
+                  "__uuid__": "ccd33eea-3427-41f8-9103-38b4712e3918"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.9166666666666666,
+      "func": "breakEggAniCallback",
+      "params": []
+    }
+  ]
+}

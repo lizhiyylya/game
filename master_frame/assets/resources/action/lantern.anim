@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lantern",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2ce06c00-7562-4da2-bf97-9e38113094b8"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "82e0c13c-dfba-4ff7-970d-524daf1a5746"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "2ce06c00-7562-4da2-bf97-9e38113094b8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
