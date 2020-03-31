@@ -38,6 +38,7 @@ cc.Class({
     },
     changeBackGround : function(event , data)
     {
+        var self = this;
         var rootNode = cc.find("Canvas").getChildByName("rootNode");
         var bcNode = rootNode.getChildByName("background");
         bcNode.active = false;
@@ -45,9 +46,19 @@ cc.Class({
         cc.loader.loadRes('model/bcBattle', function (err, bcBattle) {
             var preFabNode = cc.instantiate(bcBattle);
             rootNode.addChild(preFabNode);
+            self.loadhuashan();
         });
-
     },
+
+    loadhuashan : function()
+    {
+        var rootNode = cc.find("Canvas").getChildByName("rootNode");
+        cc.loader.loadRes('model/huashan', function (err, huashan) {
+            var preFabNode = cc.instantiate(huashan);
+            rootNode.addChild(preFabNode);
+        });
+    },
+
     start () {
 
     }
