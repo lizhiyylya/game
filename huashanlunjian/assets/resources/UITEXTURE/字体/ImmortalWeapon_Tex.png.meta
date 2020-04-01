@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e689098f-2406-4215-afcd-6fbe441fc402",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "ImmortalWeapon_Tex": {
+      "ver": "1.0.4",
+      "uuid": "725317ba-4c6f-4b24-93d0-fc31a8f5f80d",
+      "rawTextureUuid": "e689098f-2406-4215-afcd-6fbe441fc402",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -19,
+      "offsetY": 1,
+      "trimX": 12,
+      "trimY": 13,
+      "width": 66,
+      "height": 36,
+      "rawWidth": 128,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

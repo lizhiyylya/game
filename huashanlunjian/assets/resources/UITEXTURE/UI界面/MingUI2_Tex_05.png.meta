@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "38dd8f35-1d05-4b7d-b065-41809542ee8b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 262,
+  "platformSettings": {},
+  "subMetas": {
+    "MingUI2_Tex_05": {
+      "ver": "1.0.4",
+      "uuid": "81198ae0-0f7c-4d44-88ae-f501bbaba300",
+      "rawTextureUuid": "38dd8f35-1d05-4b7d-b065-41809542ee8b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 262,
+      "rawWidth": 100,
+      "rawHeight": 262,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

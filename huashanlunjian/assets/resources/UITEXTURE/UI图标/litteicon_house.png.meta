@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f67b6a59-0a3b-4fbd-b725-eb57d93b3ee1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 32,
+  "height": 31,
+  "platformSettings": {},
+  "subMetas": {
+    "litteicon_house": {
+      "ver": "1.0.4",
+      "uuid": "c617adf6-1dc4-49b3-afdf-bea069f0de67",
+      "rawTextureUuid": "f67b6a59-0a3b-4fbd-b725-eb57d93b3ee1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 28,
+      "height": 27,
+      "rawWidth": 32,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

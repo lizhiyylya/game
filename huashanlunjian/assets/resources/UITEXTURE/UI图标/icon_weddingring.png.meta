@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "adf450ba-771e-4a13-a44b-8c613f2ff8f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 65,
+  "height": 53,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_weddingring": {
+      "ver": "1.0.4",
+      "uuid": "7d9c2054-9cba-4a24-9da2-fdbeb317f4db",
+      "rawTextureUuid": "adf450ba-771e-4a13-a44b-8c613f2ff8f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 61,
+      "height": 49,
+      "rawWidth": 65,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

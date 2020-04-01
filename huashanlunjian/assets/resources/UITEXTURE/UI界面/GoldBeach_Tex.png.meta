@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f89f6332-ae94-4aac-8973-531299be4f47",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "GoldBeach_Tex": {
+      "ver": "1.0.4",
+      "uuid": "9b29062b-3a73-4b2d-9dc1-022b91fbbae0",
+      "rawTextureUuid": "f89f6332-ae94-4aac-8973-531299be4f47",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": 35,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 244,
+      "height": 182,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

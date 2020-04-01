@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2e14317d-fa5c-4b1e-b7ab-2cf22c8cdf6f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "FairyLand_Tex": {
+      "ver": "1.0.4",
+      "uuid": "c0198390-b915-44d5-a2ad-57c5401a0842",
+      "rawTextureUuid": "2e14317d-fa5c-4b1e-b7ab-2cf22c8cdf6f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -52,
+      "offsetY": 9,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 402,
+      "height": 42,
+      "rawWidth": 512,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

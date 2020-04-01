@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "085c4d8a-aa4c-41b2-9520-ade86b77b185",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Inory_Tex": {
+      "ver": "1.0.4",
+      "uuid": "db5189dd-26ba-43af-afe0-852bfff953ae",
+      "rawTextureUuid": "085c4d8a-aa4c-41b2-9520-ade86b77b185",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 89.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 252,
+      "height": 329,
+      "rawWidth": 256,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

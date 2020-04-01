@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6c89c512-fb4e-44ff-a9a6-596028f396cb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 74,
+  "height": 73,
+  "platformSettings": {},
+  "subMetas": {
+    "MythBattle_Tex_06": {
+      "ver": "1.0.4",
+      "uuid": "604d9b4e-d3fe-4c7b-b355-70c4e330d4b8",
+      "rawTextureUuid": "6c89c512-fb4e-44ff-a9a6-596028f396cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 74,
+      "height": 73,
+      "rawWidth": 74,
+      "rawHeight": 73,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

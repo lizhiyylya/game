@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "792f7a11-87ea-4c61-b55b-6a6a9d15fe06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "SacredArea_Tex": {
+      "ver": "1.0.4",
+      "uuid": "998bb513-434b-42da-9c07-f78e57d05b3e",
+      "rawTextureUuid": "792f7a11-87ea-4c61-b55b-6a6a9d15fe06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -19,
+      "offsetY": 1,
+      "trimX": 12,
+      "trimY": 13,
+      "width": 66,
+      "height": 36,
+      "rawWidth": 128,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

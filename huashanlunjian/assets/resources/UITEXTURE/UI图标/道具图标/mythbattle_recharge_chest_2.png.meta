@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "999ee298-19e2-4706-bd51-5de2ca62b12a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "mythbattle_recharge_chest_2": {
+      "ver": "1.0.4",
+      "uuid": "855a35e2-6b5a-4d07-9bc2-9ce80964f278",
+      "rawTextureUuid": "999ee298-19e2-4706-bd51-5de2ca62b12a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 87,
+      "height": 58,
+      "rawWidth": 88,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

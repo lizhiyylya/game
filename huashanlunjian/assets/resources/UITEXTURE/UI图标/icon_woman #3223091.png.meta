@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "85c65dd5-94c2-4ed8-acd5-3c0c372d51d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 38,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_woman #3223091": {
+      "ver": "1.0.4",
+      "uuid": "7c26f797-3c95-4339-b5d6-81be33b5ffc4",
+      "rawTextureUuid": "85c65dd5-94c2-4ed8-acd5-3c0c372d51d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 34,
+      "height": 33,
+      "rawWidth": 38,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

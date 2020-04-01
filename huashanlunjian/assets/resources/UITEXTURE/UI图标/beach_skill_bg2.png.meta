@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4090bb61-e919-4b79-b5fa-e3458118910e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 26,
+  "height": 26,
+  "platformSettings": {},
+  "subMetas": {
+    "beach_skill_bg2": {
+      "ver": "1.0.4",
+      "uuid": "074087d1-aa54-4429-ae7b-655b602229fe",
+      "rawTextureUuid": "4090bb61-e919-4b79-b5fa-e3458118910e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 26,
+      "height": 26,
+      "rawWidth": 26,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

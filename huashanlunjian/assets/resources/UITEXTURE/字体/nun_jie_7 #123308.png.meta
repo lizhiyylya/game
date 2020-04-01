@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "441949b7-d526-435a-82f7-4444225868db",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 20,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "nun_jie_7 #123308": {
+      "ver": "1.0.4",
+      "uuid": "b5123456-8cdd-4b2b-a031-96b0a0058984",
+      "rawTextureUuid": "441949b7-d526-435a-82f7-4444225868db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 20,
+      "height": 20,
+      "rawWidth": 20,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

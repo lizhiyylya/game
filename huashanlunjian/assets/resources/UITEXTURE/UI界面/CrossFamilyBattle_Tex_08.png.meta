@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e049f3e2-ccd9-4fec-8de6-3a5ade6fe544",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 132,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "CrossFamilyBattle_Tex_08": {
+      "ver": "1.0.4",
+      "uuid": "ff2a27a9-9193-42b4-9de7-f67252f05ed5",
+      "rawTextureUuid": "e049f3e2-ccd9-4fec-8de6-3a5ade6fe544",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 132,
+      "height": 60,
+      "rawWidth": 132,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

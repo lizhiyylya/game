@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6d58de4e-967d-4b18-930a-33a1ed776e63",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 28,
+  "height": 28,
+  "platformSettings": {},
+  "subMetas": {
+    "litteicon_icon_qiehuan": {
+      "ver": "1.0.4",
+      "uuid": "756a54f7-df39-44e4-a0ae-78f41de23f52",
+      "rawTextureUuid": "6d58de4e-967d-4b18-930a-33a1ed776e63",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 28,
+      "height": 28,
+      "rawWidth": 28,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

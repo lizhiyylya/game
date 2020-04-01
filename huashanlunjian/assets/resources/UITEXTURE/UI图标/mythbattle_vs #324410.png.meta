@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "06b28d49-89d6-4f59-9456-03b50e3efe5a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 220,
+  "height": 202,
+  "platformSettings": {},
+  "subMetas": {
+    "mythbattle_vs #324410": {
+      "ver": "1.0.4",
+      "uuid": "1060c401-0a3d-4950-99bf-7343af6c2403",
+      "rawTextureUuid": "06b28d49-89d6-4f59-9456-03b50e3efe5a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 220,
+      "height": 202,
+      "rawWidth": 220,
+      "rawHeight": 202,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
